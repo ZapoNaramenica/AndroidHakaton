@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Git\naramenica-android\Naramenica.iml" filepath="C:\Git\naramenica-android\Naramenica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/naramenica-android.iml" filepath="$PROJECT_DIR$/naramenica-android.iml" />
+    </modules>
+  </component>
+</project>
